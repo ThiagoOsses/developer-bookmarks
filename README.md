@@ -1,14 +1,6 @@
 developer-bookmarks
 ===================
 
-# Controle de Versão
-## Git
-* [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
-* [Pro Git](http://git-scm.com/book/pt-br)
-
-## SVN
-
 # Web
 * [Como perder peso no Browser](http://browserdiet.com/pt/)
 
@@ -57,4 +49,32 @@ developer-bookmarks
 ### CakePHP
 * [Documentação Oficial](http://book.cakephp.org/2.0/en/index.html)
 
-### CodeIgniter
+## CodeIgniter
+* [Documentação Oficial](https://ellislab.com/codeigniter)
+* [CodeIgniter Brasil](http://codeigniterbrasil.com/)
+
+## Ruby
+* [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
+* [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
+* [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
+* [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
+* [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+
+# Gerenciamento de Projetos
+
+## Scrum
+* [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
+* [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
+* [Scrum](http://desenvolvimentoagil.com.br/scrum/)
+
+## XP (Extreme Programming)
+* [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
+* [Extreme Programming](http://desenvolvimentoagil.com.br/xp/)
+
+# Controle de Versão
+## Git
+* [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
+* [Pro Git](http://git-scm.com/book/pt-br)
+
+## SVN
