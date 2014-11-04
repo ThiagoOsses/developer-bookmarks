@@ -9,7 +9,7 @@ developer-bookmarks
 * [Dive Into HTML5](http://diveintohtml5.com.br/)
 
 ## CSS3 / CSS
-*  [Aprenda Layout com CSS]()
+*  [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
 
 ## LESS
 * [Documentação Oficial](http://lesscss.org/)
@@ -46,7 +46,7 @@ developer-bookmarks
 ### CakePHP
 * [Documentação Oficial](http://book.cakephp.org/2.0/en/index.html)
 
-## CodeIgniter
+### CodeIgniter
 * [Documentação Oficial](https://ellislab.com/codeigniter)
 * [CodeIgniter Brasil](http://codeigniterbrasil.com/)
 
