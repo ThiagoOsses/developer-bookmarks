@@ -2,7 +2,6 @@ developer-bookmarks
 ===================
 
 # Web
-===================
 * [Como perder peso no Browser](http://browserdiet.com/pt/)
 
 ## Html5 / Html
@@ -59,7 +58,6 @@ developer-bookmarks
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
 
 # Gerenciamento de Projetos / Metodologias de Desenvolvimento
-===================
 
 ## Scrum
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
@@ -71,7 +69,6 @@ developer-bookmarks
 * [Extreme Programming](http://desenvolvimentoagil.com.br/xp/)
 
 # Mobile
-===================
 
 ## Android
 * [Documentação Oficial](http://developer.android.com/index.html)
@@ -84,7 +81,6 @@ developer-bookmarks
 * [Usando PhoneGap Build: Build Automático para 6 Plataformas de uma só vez!](http://www.loiane.com/2013/07/usando-phonegap-build-build-automatico-para-6-plataformas-de-uma-so-vez/)
 
 # Banco de Dados
-===================
 
 ## MongoDB
 * [Documentação Oficial](https://university.mongodb.com/)
@@ -95,7 +91,6 @@ developer-bookmarks
 * [Documentação Oficial](http://lucene.apache.org/solr/documentation.html)
 
 # Controle de Versão
-===================
 
 ## Git
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
