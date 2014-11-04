@@ -1,17 +1,37 @@
 developer-bookmarks
 ===================
 
-## Controle de Versão
-### Git
+# Controle de Versão
+## Git
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
 
-### SVN
+## SVN
 
 # Web
+* [Como perder peso no Browser](http://browserdiet.com/pt/)
+
+## Html5 / Html
+* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
+* [Dive Into HTML5](http://diveintohtml5.com.br/)
+
+## CSS3 / CSS
+*  [Aprenda Layout com CSS]()
+* 
+
+## LESS
+* [Documentação Oficial](http://lesscss.org/)
+* [Tradução da Documentação Oficial](http://lesscss.loopinfinito.com.br/)
 
 ## Javascript
+* [Eloquent Javascript PT-BR](https://leanpub.com/eloquentejavascript)
+* [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
+* [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
+
+### CoffeScript
+* [Documentação Oficial](http://coffeescript.org/)
+* [Tradução da Documentação Oficial](http://coffeescript.loopinfinito.com.br/)
 
 ### GruntJS
 * [Documentação Oficial](http://gruntjs.com/)
@@ -26,3 +46,15 @@ developer-bookmarks
 * [Guia Definitivo para aprender AngularJs em um dia](http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/)
 * [Criando uma aplicaçõe simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
 * [5 Exemplos práticos com AngularJS](http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/)
+
+### NodeJS
+* [Node.js para Leigos](http://udgwebdev.com/nodejs)
+
+## PHP
+* [PHP do jeito certo](http://br.phptherightway.com/)
+* [10 Feramentas que todo desenvolvedor php deve dominar](http://blog.erikfigueiredo.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar/)
+
+### CakePHP
+* [Documentação Oficial](http://book.cakephp.org/2.0/en/index.html)
+
+### CodeIgniter
