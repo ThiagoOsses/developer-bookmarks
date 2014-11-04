@@ -2,6 +2,7 @@ developer-bookmarks
 ===================
 
 # Web
+===================
 * [Como perder peso no Browser](http://browserdiet.com/pt/)
 
 ## Html5 / Html
@@ -10,7 +11,6 @@ developer-bookmarks
 
 ## CSS3 / CSS
 *  [Aprenda Layout com CSS]()
-* 
 
 ## LESS
 * [Documentação Oficial](http://lesscss.org/)
@@ -30,8 +30,6 @@ developer-bookmarks
 * [Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar)
 * [Grunt - Você deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 * [Automação de Tarefas com Grunt - PT1](http://javascriptbrasil.com/2013/10/08/automacao-de-tarefas-com-grunt-parte-1/)
-* [Automação de Tarefas com Grunt - PT2](http://javascriptbrasil.com/2013/10/08/automacao-de-tarefas-com-grunt-parte-1/)
-* []()
 
 ### AngularJS
 * [Documentação Oficial](http://angularjs.org/)
@@ -60,7 +58,8 @@ developer-bookmarks
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
 
-# Gerenciamento de Projetos
+# Gerenciamento de Projetos / Metodologias de Desenvolvimento
+===================
 
 ## Scrum
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
@@ -71,10 +70,37 @@ developer-bookmarks
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
 * [Extreme Programming](http://desenvolvimentoagil.com.br/xp/)
 
+# Mobile
+===================
+
+## Android
+* [Documentação Oficial](http://developer.android.com/index.html)
+* [O que é Gradle, é de comer ou passar no cabelo?](http://imasters.com.br/desenvolvimento/gradle-e-de-comer-ou-passar-no-cabelo/)
+
+## IOS
+* [Swift Playground](http://swiftplayground.com.br/)
+
+## PhoneGAP
+* [Usando PhoneGap Build: Build Automático para 6 Plataformas de uma só vez!](http://www.loiane.com/2013/07/usando-phonegap-build-build-automatico-para-6-plataformas-de-uma-so-vez/)
+
+# Banco de Dados
+===================
+
+## MongoDB
+* [Documentação Oficial](https://university.mongodb.com/)
+* [Coisas que não te contam sobre MongoDB](http://www.itexto.net/devkico/?p=1621)
+* [MongoDB para iniciantes](http://christiano.me/mongodb-para-iniciantes/)
+
+## Apache Solr
+* [Documentação Oficial](http://lucene.apache.org/solr/documentation.html)
+
 # Controle de Versão
+===================
+
 ## Git
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
 
 ## SVN
+
