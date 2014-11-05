@@ -1,15 +1,21 @@
-developer-bookmarks
+Biblioteca dos desenvolvedores
 ===================
 
 # Web
 * [Como perder peso no Browser](http://browserdiet.com/pt/)
+* [Ferramentas e site para tornar mais agil seu desenvolvimento](http://blog.turbosite.com.br/ferramentas-e-sites-para-tornar-mais-agil-o-seu-desenvolvimento/)
+* [Segredos do DevTools por Google](http://blog.turbosite.com.br/chrome-devtools-conheca-os-segredos-com-10-videos-feitos-pelo-google/)
+* [Estruturação de front-end – Parte 1](http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/)
+* [Estruturação de front-end – Parte 1](http://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/)
+* [Boas práticas na estruturação de interfaces](http://tableless.com.br/boas-praticas-na-estruturacao-de-interfaces/)
 
 ## Html5 / Html
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
 * [Dive Into HTML5](http://diveintohtml5.com.br/)
 
 ## CSS3 / CSS
-*  [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
+* [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
+* [Filtro em imagems com CSS3](http://blog.turbosite.com.br/filtros-em-imagens-com-css3/)
 
 ## LESS
 * [Documentação Oficial](http://lesscss.org/)
@@ -19,6 +25,9 @@ developer-bookmarks
 * [Eloquent Javascript PT-BR](https://leanpub.com/eloquentejavascript)
 * [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
+
+### jQuery
+* [19 Truques e dicas para jQuery](http://blog.turbosite.com.br/19-truques-e-dicas-para-jquery/)
 
 ### CoffeScript
 * [Documentação Oficial](http://coffeescript.org/)
@@ -63,6 +72,7 @@ developer-bookmarks
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook)
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg)
 * [Scrum](http://desenvolvimentoagil.com.br/scrum/)
+* [Desenvolvimento Agil usando Scrum](http://tableless.com.br/desenvolvimento-agil-utilizando-scrum/#.UfBBxY2EGPo)
 
 ## XP (Extreme Programming)
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
@@ -89,6 +99,12 @@ developer-bookmarks
 
 ## Apache Solr
 * [Documentação Oficial](http://lucene.apache.org/solr/documentation.html)
+
+## MySQL
+* [Dicas para otimizar o MySQL](http://blog.turbosite.com.br/dicas-para-otimizar-seu-mysql/)
+
+## PostgreSQL
+* [Replicação de dados com PostgreSQL 9.2](http://www.4linux.com.br/noticias/2013/webcast-tutorial-replicacao-banco-dados-postgresql-92.html)
 
 # Controle de Versão
 
