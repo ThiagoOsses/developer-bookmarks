@@ -8,10 +8,12 @@ Biblioteca dos desenvolvedores
 * [Estruturação de front-end – Parte 1](http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/)
 * [Estruturação de front-end – Parte 1](http://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/)
 * [Boas práticas na estruturação de interfaces](http://tableless.com.br/boas-praticas-na-estruturacao-de-interfaces/)
+* [5 Ferramentas de desenvolvimento que você deve conhecer](http://idesigns.com.br/blog/web-design/104-5-ferramentas-recentes-de-desenvolvimento-web-que-voce-deve-conhecer)
 
 ## Html5 / Html
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
 * [Dive Into HTML5](http://diveintohtml5.com.br/)
+* [Html5 Rocks](http://www.html5rocks.com/pt/)
 
 ## CSS3 / CSS
 * [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
@@ -28,6 +30,7 @@ Biblioteca dos desenvolvedores
 
 ### jQuery
 * [19 Truques e dicas para jQuery](http://blog.turbosite.com.br/19-truques-e-dicas-para-jquery/)
+* [Tudo o que você gostaria de saber sobre plugin jQuery](http://tableless.com.br/tudo-que-voce-gostaria-de-saber-sobre-plugins-jquery-e-ninguem-teve-paciencia-de-explicar/)
 
 ### CoffeScript
 * [Documentação Oficial](http://coffeescript.org/)
@@ -38,6 +41,7 @@ Biblioteca dos desenvolvedores
 * [Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar)
 * [Grunt - Você deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 * [Automação de Tarefas com Grunt - PT1](http://javascriptbrasil.com/2013/10/08/automacao-de-tarefas-com-grunt-parte-1/)
+* [Otimizando a perfomance do seu site com o Grunt](http://www.princiweb.com.br/blog/front-end/ferramentas/otimizando-a-perfomance-do-seu-site-com-o-grunt.html)
 
 ### AngularJS
 * [Documentação Oficial](http://angularjs.org/)
@@ -51,6 +55,7 @@ Biblioteca dos desenvolvedores
 ## PHP
 * [PHP do jeito certo](http://br.phptherightway.com/)
 * [10 Feramentas que todo desenvolvedor php deve dominar](http://blog.erikfigueiredo.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar/)
+* [Importar excel para Mysql](http://www.mauricioprogramador.com.br/posts/importando-dados-do-excel-para-mysql-com-php)
 
 ### CakePHP
 * [Documentação Oficial](http://book.cakephp.org/2.0/en/index.html)
