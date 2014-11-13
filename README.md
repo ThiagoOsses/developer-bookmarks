@@ -58,6 +58,7 @@ Biblioteca dos desenvolvedores
 * [10 Feramentas que todo desenvolvedor php deve dominar](http://blog.erikfigueiredo.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar/)
 * [Importar excel para Mysql](http://www.mauricioprogramador.com.br/posts/importando-dados-do-excel-para-mysql-com-php)
 * [Debugando aplicações PHP com Xdebug e Eclipse](http://www.vivaolinux.com.br/artigo/Debugando-aplicacoes-PHP-com-Xdebug-e-Eclipse-PDT)
+* [8 Expressões regulares úteis para PHP](http://www.pinceladasdaweb.com.br/blog/2008/01/21/8-expressoes-regulares-para-php-consideradas-uteis/)
 
 ### CakePHP
 * [Documentação Oficial](http://book.cakephp.org/2.0/en/index.html)
