@@ -27,6 +27,7 @@ Biblioteca dos desenvolvedores
 * [Eloquent Javascript PT-BR](https://leanpub.com/eloquentejavascript)
 * [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
+* [JavaScript Modular](http://matheusazzi.com/javascript-modular/)
 
 ### jQuery
 * [19 Truques e dicas para jQuery](http://blog.turbosite.com.br/19-truques-e-dicas-para-jquery/)
@@ -56,6 +57,7 @@ Biblioteca dos desenvolvedores
 * [PHP do jeito certo](http://br.phptherightway.com/)
 * [10 Feramentas que todo desenvolvedor php deve dominar](http://blog.erikfigueiredo.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar/)
 * [Importar excel para Mysql](http://www.mauricioprogramador.com.br/posts/importando-dados-do-excel-para-mysql-com-php)
+* [Debugando aplicações PHP com Xdebug e Eclipse](http://www.vivaolinux.com.br/artigo/Debugando-aplicacoes-PHP-com-Xdebug-e-Eclipse-PDT)
 
 ### CakePHP
 * [Documentação Oficial](http://book.cakephp.org/2.0/en/index.html)
