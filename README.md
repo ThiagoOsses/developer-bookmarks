@@ -121,6 +121,7 @@ Biblioteca dos desenvolvedores
 
 ## Git
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
+* [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
 * [Cheatsheet do git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
