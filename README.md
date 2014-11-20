@@ -14,6 +14,7 @@ Biblioteca dos desenvolvedores
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
 * [Dive Into HTML5](http://diveintohtml5.com.br/)
 * [Html5 Rocks](http://www.html5rocks.com/pt/)
+* [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/)
 
 ## CSS3 / CSS
 * [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
@@ -76,6 +77,15 @@ Biblioteca dos desenvolvedores
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+
+## Java
+* [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/)
+* [Java e a Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/)
+* [Algoritmos e Estruturas de Dados com Java](https://www.caelum.com.br/apostila-java-estrutura-dados/)
+
+### Vraptor
+* [Apostila de Vraptor + Hibernate](http://www.caelum.com.br/apostila-vraptor-hibernate/)
 
 # Gerenciamento de Projetos / Metodologias de Desenvolvimento
 
