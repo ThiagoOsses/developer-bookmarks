@@ -66,6 +66,7 @@ Biblioteca dos desenvolvedores
 * [Autenticação com Google](https://github.com/ceeram/GoogleAuthenticate)
 * [Autenticação com Facebook](https://github.com/webtechnick/CakePHP-Facebook-Plugin)
 * [Solução para manter o usuário logado](https://github.com/EduardoSpek/cakephp-remember-me-auto-login)
+* [CakePHP Cheat Sheet](http://cakephpcheatsheet.com/)
 
 ### CodeIgniter
 * [Documentação Oficial](https://ellislab.com/codeigniter)
