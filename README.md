@@ -9,6 +9,7 @@ Biblioteca dos desenvolvedores
 * [Estruturação de front-end – Parte 1](http://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/)
 * [Boas práticas na estruturação de interfaces](http://tableless.com.br/boas-praticas-na-estruturacao-de-interfaces/)
 * [5 Ferramentas de desenvolvimento que você deve conhecer](http://idesigns.com.br/blog/web-design/104-5-ferramentas-recentes-de-desenvolvimento-web-que-voce-deve-conhecer)
+* [Segredos do Chrome Deve Tools](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
 
 ## Html5 / Html
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/)
@@ -105,6 +106,7 @@ Biblioteca dos desenvolvedores
 ## Android
 * [Documentação Oficial](http://developer.android.com/index.html)
 * [O que é Gradle, é de comer ou passar no cabelo?](http://imasters.com.br/desenvolvimento/gradle-e-de-comer-ou-passar-no-cabelo/)
+* [Escreva sua app Android sem gastar energia](http://www.infoq.com/br/presentations/escreva-sua-app-android-sem-gastar-energia)
 
 ## IOS
 * [Swift Playground](http://swiftplayground.com.br/)
