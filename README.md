@@ -10,6 +10,7 @@ Biblioteca dos desenvolvedores
 * [Boas práticas na estruturação de interfaces (PT-BR)](http://tableless.com.br/boas-praticas-na-estruturacao-de-interfaces/)
 * [5 Ferramentas de desenvolvimento que você deve conhecer (PT-BR)](http://idesigns.com.br/blog/web-design/104-5-ferramentas-recentes-de-desenvolvimento-web-que-voce-deve-conhecer)
 * [Segredos do Chrome Deve Tools (PT-BR)](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
+* [Cheats markdown (PT-BR)](http://learnxinyminutes.com/docs/pt-br/markdown-pt/)
 
 ## Html5 / Html
 * [Estruturando o HTML com CSS (PT-BR)](http://pt-br.learnlayout.com/)
@@ -48,50 +49,50 @@ Biblioteca dos desenvolvedores
 
 ### AngularJS
 * [Documentação Oficial (EN)](http://angularjs.org/)
-* [Guia Definitivo para aprender AngularJs em um dia](http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/)
-* [Criando uma aplicaçõe simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
-* [5 Exemplos práticos com AngularJS](http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/)
+* [Guia Definitivo para aprender AngularJs em um dia (PT-BR)](http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/)
+* [Criando uma aplicaçõe simples com AngularJS (PT-BR)](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
+* [5 Exemplos práticos com AngularJS (PT-BR)](http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/)
 
 ### NodeJS
-* [Node.js para Leigos](http://udgwebdev.com/nodejs)
+* [Node.js para Leigos (PT-BR)](http://udgwebdev.com/nodejs)
 
 ## PHP
-* [PHP do jeito certo](http://br.phptherightway.com/)
-* [10 Feramentas que todo desenvolvedor php deve dominar](http://blog.erikfigueiredo.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar/)
-* [Importar excel para Mysql](http://www.mauricioprogramador.com.br/posts/importando-dados-do-excel-para-mysql-com-php)
-* [Debugando aplicações PHP com Xdebug e Eclipse](http://www.vivaolinux.com.br/artigo/Debugando-aplicacoes-PHP-com-Xdebug-e-Eclipse-PDT)
-* [8 Expressões regulares úteis para PHP](http://www.pinceladasdaweb.com.br/blog/2008/01/21/8-expressoes-regulares-para-php-consideradas-uteis/)
-* [PSR-0](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-0.md)
-* [PSR-1](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-1.md)
-* [PSR-2](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-2.md)
-* [PSR-3](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-3.md)
+* [PHP do jeito certo (PT-BR)](http://br.phptherightway.com/)
+* [10 Feramentas que todo desenvolvedor php deve dominar (PT-BR)](http://blog.erikfigueiredo.com.br/10-ferramentas-e-outras-coisas-que-todo-desenvolvedor-php-deve-dominar/)
+* [Importar excel para Mysql (PT-BR)](http://www.mauricioprogramador.com.br/posts/importando-dados-do-excel-para-mysql-com-php)
+* [Debugando aplicações PHP com Xdebug e Eclipse (PT-BR)](http://www.vivaolinux.com.br/artigo/Debugando-aplicacoes-PHP-com-Xdebug-e-Eclipse-PDT)
+* [8 Expressões regulares úteis para PHP (PT-BR)](http://www.pinceladasdaweb.com.br/blog/2008/01/21/8-expressoes-regulares-para-php-consideradas-uteis/)
+* [PSR-0 (PT-BR)](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-0.md)
+* [PSR-1 (PT-BR)](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-1.md)
+* [PSR-2 (PT-BR)](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-2.md)
+* [PSR-3 (PT-BR)](https://github.com/enricopvarella/fig-standards/blob/master/accepted/pt-br/PSR-3.md)
 
 ### CakePHP
 * [Documentação Oficial (EN)](http://book.cakephp.org/2.0/en/index.html)
-* [Autenticação com Google](https://github.com/ceeram/GoogleAuthenticate)
-* [Autenticação com Facebook](https://github.com/webtechnick/CakePHP-Facebook-Plugin)
-* [Solução para manter o usuário logado](https://github.com/EduardoSpek/cakephp-remember-me-auto-login)
-* [CakePHP Cheat Sheet](http://cakephpcheatsheet.com/)
+* [Autenticação com Google (PT-BR)](https://github.com/ceeram/GoogleAuthenticate)
+* [Autenticação com Facebook (PT-BR)](https://github.com/webtechnick/CakePHP-Facebook-Plugin)
+* [Solução para manter o usuário logado (PT-BR)](https://github.com/EduardoSpek/cakephp-remember-me-auto-login)
+* [CakePHP Cheat Sheet (PT-BR)](http://cakephpcheatsheet.com/)
 
 ### CodeIgniter
 * [Documentação Oficial (EN)](https://ellislab.com/codeigniter)
-* [CodeIgniter Brasil](http://codeigniterbrasil.com/)
+* [CodeIgniter Brasil (PT-BR)](http://codeigniterbrasil.com/)
 
 ## Ruby
-* [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
-* [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
-* [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
-* [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
-* [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+* [Aprenda a Programar (PT-BR)](http://aprendaaprogramar.rubyonrails.com.br)
+* [O (comovente) guia de Ruby do Why (PT-BR)](http://why.carlosbrando.com/)
+* [Pequeno Livro do Ruby (PT-BR)](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
+* [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails (PT-BR)](http://www.caelum.com.br/apostila-ruby-on-rails/)
+* [Tutorial de Ruby (PT-BR)](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
 
 ## Java
-* [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/)
-* [Java e a Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
-* [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/)
-* [Algoritmos e Estruturas de Dados com Java](https://www.caelum.com.br/apostila-java-estrutura-dados/)
+* [Java para Desenvolvimento Web (PT-BR)](https://www.caelum.com.br/apostila-java-web/)
+* [Java e a Orientação a Objetos (PT-BR)](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [Lab. Java com Testes, JSF e Design Patterns (PT-BR)](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/)
+* [Algoritmos e Estruturas de Dados com Java (PT-BR)](https://www.caelum.com.br/apostila-java-estrutura-dados/)
 
 ### Vraptor
-* [Apostila de Vraptor + Hibernate](http://www.caelum.com.br/apostila-vraptor-hibernate/)
+* [Apostila de Vraptor + Hibernate (PT-BR)](http://www.caelum.com.br/apostila-vraptor-hibernate/)
 
 # Gerenciamento de Projetos / Metodologias de Desenvolvimento
 
