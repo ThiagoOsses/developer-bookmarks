@@ -12,6 +12,10 @@ Biblioteca dos desenvolvedores
 * [Segredos do Chrome Deve Tools (PT-BR)](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
 * [Cheats markdown (PT-BR)](http://learnxinyminutes.com/docs/pt-br/markdown-pt/)
 
+## Deploy de Aplicaçao
+
+* [Automatizando a instalação (deploy) e atualização de sites com Git (PT-BR)](http://blog.thiagobelem.net/automatizando-a-instalacao-deploy-e-atualizacao-de-sites-com-git/)
+
 ## Html5 / Html
 * [Estruturando o HTML com CSS (PT-BR)](http://pt-br.learnlayout.com/)
 * [Dive Into HTML5 (EN / PT-BR)](http://diveintohtml5.com.br/)
