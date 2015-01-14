@@ -15,6 +15,7 @@ Biblioteca dos desenvolvedores
 ## Deploy de Aplicaçao
 
 * [Automatizando a instalação (deploy) e atualização de sites com Git (PT-BR)](http://blog.thiagobelem.net/automatizando-a-instalacao-deploy-e-atualizacao-de-sites-com-git/)
+* [Automatizando Deploy com Git](http://blog.glaucocustodio.com/2013/11/25/automatizando-deploy-com-git/)
 
 ## Html5 / Html
 * [Estruturando o HTML com CSS (PT-BR)](http://pt-br.learnlayout.com/)
