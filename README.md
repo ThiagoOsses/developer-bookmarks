@@ -26,6 +26,8 @@ Biblioteca dos desenvolvedores
 ## CSS3 / CSS
 * [Aprenda Layout com CSS (PT-BR)](http://pt-br.learnlayout.com/)
 * [Filtro em imagems com CSS3 (PT-BR)](http://blog.turbosite.com.br/filtros-em-imagens-com-css3/)
+* [Aplicando filtros em imagens com CSS3 - Tableless (PT-BR)](http://tableless.com.br/css-filters-aplicando-filtros-em-imagens-com-css/)
+* [Afinal, como escrever CSS? (PT-BT)](http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/)
 
 ## LESS
 * [Documentação Oficial](http://lesscss.org/)
@@ -47,10 +49,10 @@ Biblioteca dos desenvolvedores
 
 ### GruntJS
 * [Documentação Oficial (EN)](http://gruntjs.com/)
-* [Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar)
-* [Grunt - Você deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
-* [Automação de Tarefas com Grunt - PT1](http://javascriptbrasil.com/2013/10/08/automacao-de-tarefas-com-grunt-parte-1/)
-* [Otimizando a perfomance do seu site com o Grunt](http://www.princiweb.com.br/blog/front-end/ferramentas/otimizando-a-perfomance-do-seu-site-com-o-grunt.html)
+* [Por onde começar (PT-BR)](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar)
+* [Grunt - Você deveria estar usando (PT-BR)](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+* [Automação de Tarefas com Grunt - PT1 (PT-BR)](http://javascriptbrasil.com/2013/10/08/automacao-de-tarefas-com-grunt-parte-1/)
+* [Otimizando a perfomance do seu site com o Grunt (PT-BR)](http://www.princiweb.com.br/blog/front-end/ferramentas/otimizando-a-perfomance-do-seu-site-com-o-grunt.html)
 
 ### AngularJS
 * [Documentação Oficial (EN)](http://angularjs.org/)
