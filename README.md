@@ -11,6 +11,7 @@ Biblioteca dos desenvolvedores
 * [5 Ferramentas de desenvolvimento que você deve conhecer (PT-BR)](http://idesigns.com.br/blog/web-design/104-5-ferramentas-recentes-de-desenvolvimento-web-que-voce-deve-conhecer)
 * [Segredos do Chrome Deve Tools (PT-BR)](http://loopinfinito.com.br/2014/03/18/segredos-do-chrome-dev-tools/)
 * [Cheats markdown (PT-BR)](http://learnxinyminutes.com/docs/pt-br/markdown-pt/)
+* [Como se tornar um Dev Front-end](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/)
 
 ## Deploy de Aplicaçao
 
@@ -37,6 +38,7 @@ Biblioteca dos desenvolvedores
 * [Eloquent Javascript PT-BR (PT-BR)](https://leanpub.com/eloquentejavascript)
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS (PT-BR)](https://leanpub.com/guiarapidofirefoxos)
 * [JavaScript Modular (PT-BR)](http://matheusazzi.com/javascript-modular/)
+* [Tudo o que você queria saber sobre Javascript](http://www.obomprogramador.com/2015/02/nova-video-palestra-tudo-o-que-voce.html?m=1)
 
 ### jQuery
 * [19 Truques e dicas para jQuery (PT-BR)](http://blog.turbosite.com.br/19-truques-e-dicas-para-jquery/)
@@ -120,6 +122,7 @@ Biblioteca dos desenvolvedores
 * [O que é Gradle, é de comer ou passar no cabelo? (PT-BR)](http://imasters.com.br/desenvolvimento/gradle-e-de-comer-ou-passar-no-cabelo/)
 * [Escreva sua app Android sem gastar energia (PT-BR)](http://www.infoq.com/br/presentations/escreva-sua-app-android-sem-gastar-energia)
 * [Login em WebService com Android (EN)](http://programmerguru.com/android-tutorial/android-java-web-service-login/)
+* [Lista e Adapters em Android](https://dariomungoi.wordpress.com/2015/02/25/desenvolvendo-para-android-lista-e-adapters/)
 
 ## IOS
 * [Swift Playground](http://swiftplayground.com.br/)
