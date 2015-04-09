@@ -13,6 +13,10 @@ Biblioteca dos desenvolvedores
 * [Cheats markdown (PT-BR)](http://learnxinyminutes.com/docs/pt-br/markdown-pt/)
 * [Como se tornar um Dev Front-end](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/)
 
+## Composer
+
+* [Instalando composer ubuntu (EN)](http://theprogrammer.co.za/wp/2014/02/11/php-composer-installation-on-ubuntu-12-04-2/)
+
 ## Deploy de Aplicaçao
 
 * [Automatizando a instalação (deploy) e atualização de sites com Git (PT-BR)](http://blog.thiagobelem.net/automatizando-a-instalacao-deploy-e-atualizacao-de-sites-com-git/)
