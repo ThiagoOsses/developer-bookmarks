@@ -97,6 +97,7 @@ Biblioteca dos desenvolvedores
 * [Pequeno Livro do Ruby (PT-BR)](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails (PT-BR)](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby (PT-BR)](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+* [Instalação do Ruby on Rails em Ubuntu (EN)](http://www.bogotobogo.com/RubyOnRails/RubyOnRails_Rails_Install_Project.php)
 
 ## Java
 * [Java para Desenvolvimento Web (PT-BR)](https://www.caelum.com.br/apostila-java-web/)
