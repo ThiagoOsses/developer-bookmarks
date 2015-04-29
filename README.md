@@ -98,6 +98,7 @@ Biblioteca dos desenvolvedores
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails (PT-BR)](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby (PT-BR)](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
 * [Instalação do Ruby on Rails em Ubuntu (EN)](http://www.bogotobogo.com/RubyOnRails/RubyOnRails_Rails_Install_Project.php)
+* [Instalando e configurando: Passenger + Apache2 + Rails 3.2.8 + Ubuntu 11.10 (PT-BR)](https://luizrobertofreitas.wordpress.com/2012/10/06/instalando-e-configurando-passenger-apache2-rails-3-2-8-ubuntu-11-10/)
 
 ## Java
 * [Java para Desenvolvimento Web (PT-BR)](https://www.caelum.com.br/apostila-java-web/)
